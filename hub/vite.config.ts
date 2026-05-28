@@ -13,6 +13,7 @@ export default defineConfig({
 		external: [
 			'@arcgis/core',
 			'@arcgis/map-components',
+			'@dsh/uprn-service',
 			'rehype-mermaid',
 			'playwright-core',
 			'mermaid-isomorphic'
